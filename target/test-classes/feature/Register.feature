@@ -7,7 +7,7 @@ When I enter invalid data on the page
 | Fields                 | Values             |
 | First Name             | nilima               |
 | email                  | nilimam@yahoo.co.in  |  
-| password               | password1            |  
+| password               | password2          |  
 Then Registration is successful
    
    
